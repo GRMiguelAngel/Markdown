@@ -93,7 +93,7 @@ Periódico [El País](https://www.elpais.es "periódico chachi")
 ---
 <!--Listas (solo GitHub)-->
 
-* [] [Tarea 1](https://www.studocu.com/es/document/universidad-politecnica-de-madrid/bases-de-datos/ejercicio-de-normalizacion-1/6191281)
+* [ ] [Tarea 1](https://www.studocu.com/es/document/universidad-politecnica-de-madrid/bases-de-datos/ejercicio-de-normalizacion-1/6191281)
 * [x] Tarea 2
 
 ---
