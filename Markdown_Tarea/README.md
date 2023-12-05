@@ -6,7 +6,11 @@ Dark Souls III es un juego de rol de acción de 2016 desarrollado por [FromSoftw
 
 * Jefes
     * <a href="#reysinnombre">El Rey sin Nombre</a>
-    * Ludex Gundyr
-    * Pontícife Sulyvahn
+    * <a href="#ludexgundyr">Ludex Gundyr</a>
+    * <a href="#ponticifesulyvahn">Pontícife Sulyvahn</a>
 
 ## <div id="reysinnombre">El Rey sin Nombre</div>
+
+## <div id="ludexgundyr">Ludex Gundyr</div>
+
+## <div id="ponticifesulyvahn">Pontícife Sulyvahn</div>
