@@ -99,5 +99,5 @@ Periódico [El País](https://www.elpais.es "periódico chachi")
 ---
 <!--Citas-->
 
-> Esto es una cita.\
+> [Esto es una cita.](https://darksouls.fandom.com/es/wiki/Pont%C3%ADfice_Sulyvahn)\
 >No conteste.
