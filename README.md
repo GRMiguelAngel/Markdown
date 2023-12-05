@@ -84,3 +84,10 @@ console.log("hola mundo")
 <!--Acceso a páginas web-->
 
 Periódico [El País](https://www.elpais.es "periódico chachi")
+
+<!--Insertando imagenes-->
+
+![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png "Visual Studio Code logo")
+
+* [X] Tarea 1
+* [x] Tarea 2
