@@ -89,5 +89,5 @@ Periódico [El País](https://www.elpais.es "periódico chachi")
 
 ![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png "Visual Studio Code logo")
 
-* [X] Tarea 1
+* [X] [Tarea 1](https://www.studocu.com/es/document/universidad-politecnica-de-madrid/bases-de-datos/ejercicio-de-normalizacion-1/6191281)
 * [x] Tarea 2
