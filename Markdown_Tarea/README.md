@@ -17,22 +17,22 @@ ___
 
 ## <div id="reysinnombre"><front style="color:oldlace">El Rey sin Nombre</front></div>
 
-El Rey Sin Nombre es un ser de gran estatura blindado con una armadura dorada adornada con escamas de dragón. Lleva también una corona muy parecida a la del Primer Señor,[1] mostrando así su estatus de rey.
+El Rey Sin Nombre es un ser de gran estatura blindado con una armadura dorada adornada con escamas de dragón. Lleva también una corona muy parecida a la del Primer Señor, mostrando así su estatus de rey.
 
 Su rostro está parcialmente cubierto por un pañuelo o bufanda, y su cabello es color ceniza. Blande una gran lanza-espada y monta sobre el dragón conocido como Rey de la Tormenta.
 
 Aparentemente, en algún momento de la historia, el Rey Sin Nombre se volvió Hueco. 
 
-El Rey Sin Nombre fue antaño un dios de la guerra asesino de dragones[2] en la Era de los Dioses, y heredero del rayo,[3] hasta que lo sacrificó todo para aliarse con los antiguos dragones.[2] Domesticó a un dragón de la tormenta y formó un vínculo estrecho con él, llevándolo a innumerables batallas.[4]
+El Rey Sin Nombre fue antaño un dios de la guerra asesino de dragones en la Era de los Dioses, y heredero del rayo, hasta que lo sacrificó todo para aliarse con los antiguos dragones. Domesticó a un dragón de la tormenta y formó un vínculo estrecho con él, llevándolo a innumerables batallas.
 
-Ornstein el Asesino de dragones, otra leyenda de la Era de los Dioses y primer caballero del Rey Sin Nombre, abandonó la catedral en ruinas de la antigua Anor Londo a la que protegió durante años,[5] tal vez debido a un deseo de reunirse con su único maestro.
+Ornstein el Asesino de dragones, otra leyenda de la Era de los Dioses y primer caballero del Rey Sin Nombre, abandonó la catedral en ruinas de la antigua Anor Londo a la que protegió durante años, tal vez debido a un deseo de reunirse con su único maestro.
 
-Se da a entender que el Rey Sin Nombre es el hijo primogénito de Gwyn, Señor de la Luz Solar. Su alianza con los dragones contra los que alguna vez luchó fue un gravísimo error a los ojos de Anor Londo y su padre, lo que llevó a la anulación de su estado deífico y su eliminación de los anales de la historia.[6]
+Se da a entender que el Rey Sin Nombre es el hijo primogénito de Gwyn, Señor de la Luz Solar. Su alianza con los dragones contra los que alguna vez luchó fue un gravísimo error a los ojos de Anor Londo y su padre, lo que llevó a la anulación de su estado deífico y su eliminación de los anales de la historia.
 
-Dado que el primogénito sólo tenía respeto por las armas,[7] es posible que esa fuera la razón para aliarse con los dragones; de ahí que Gwyn lo expulsara de la historia. Sin embargo, se desconoce si el Rey Sin Nombre se alió con los dragones sólo después de su expulsión o fue condenado al ostracismo a causa de ello. Sin embargo, se sabe que el primogénito dejó el milagro Espada de Luz Solar sobre el ataúd honorario de Gwyn en Anor Londo, tal vez como una última despedida,[8] lo que sólo podía significar que Gwyn ya había partido hacia el Horno de la Llama original.
+Dado que el primogénito sólo tenía respeto por las armas, es posible que esa fuera la razón para aliarse con los dragones; de ahí que Gwyn lo expulsara de la historia. Sin embargo, se desconoce si el Rey Sin Nombre se alió con los dragones sólo después de su expulsión o fue condenado al ostracismo a causa de ello. Sin embargo, se sabe que el primogénito dejó el milagro Espada de Luz Solar sobre el ataúd honorario de Gwyn en Anor Londo, tal vez como una última despedida, lo que sólo podía significar que Gwyn ya había partido hacia el Horno de la Llama original.
 Guerrero de la Luz Solar
 
-En Dark Souls, el Rey Sin Nombre comparte un icónico símbolo con el pacto Guerrero de la Luz Solar: la Medalla de Luz Solar. El pacto en sí está estrechamente relacionado con el primogénito, con los miembros conocidos como sus guerreros, y se decía que el dios vigilaba el pacto de cerca.[9]
+En Dark Souls, el Rey Sin Nombre comparte un icónico símbolo con el pacto Guerrero de la Luz Solar: la Medalla de Luz Solar. El pacto en sí está estrechamente relacionado con el primogénito, con los miembros conocidos como sus guerreros, y se decía que el dios vigilaba el pacto de cerca.
 Estatuas
 
 En la parte posterior de la sala donde se lucha contra Ornstein y Smough hay pedestales para tres estatuas, con dos de ellas representando a Gwyn, Señor de la Luz Solar y Gwynevere, Princesa de la Luz Solar, mientras que el tercer pedestal se encuentra vacío. Es posible que este tercer pedestal una vez sostuviera la estatua que representara al Primogénito de Gwyn, y cuando éste fue exiliado y borrado de los anales de la historia, Gwyn decidiera retirar su estatua. 
