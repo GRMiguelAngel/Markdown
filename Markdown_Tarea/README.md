@@ -11,9 +11,9 @@ Dark Souls III es un juego de rol de acción de 2016 desarrollado por [FromSoftw
     * <a href="#iudexgundyr">Iudex Gundyr</a>
 
     * <a href="#ponticifesulyvahn">Pontícife Sulyvahn</a>
+    <br>
 <br>
-<br>
-___
+
 
 ## <div id="reysinnombre"><front style="color:oldlace">El Rey sin Nombre</front></div>
 
@@ -37,6 +37,32 @@ Estatuas
 
 En la parte posterior de la sala donde se lucha contra Ornstein y Smough hay pedestales para tres estatuas, con dos de ellas representando a Gwyn, Señor de la Luz Solar y Gwynevere, Princesa de la Luz Solar, mientras que el tercer pedestal se encuentra vacío. Es posible que este tercer pedestal una vez sostuviera la estatua que representara al Primogénito de Gwyn, y cuando éste fue exiliado y borrado de los anales de la historia, Gwyn decidiera retirar su estatua. 
 
-## <div id="iudexgundyr">Iudex Gundyr</div>
+## <div id="iudexgundyr"><front style="color:oldlace">Lorian, Príncipe Anciano<br>Lothric, joven príncipe</front></div>
 
-## <div id="ponticifesulyvahn">Pontícife Sulyvahn</div>
+Ambos hermanos tienen cabello largo de color gris y la piel pálida.
+
+Lorian es un caballero con armadura negra, que porta un espadón llameante. La maldición de su hermano lo dejó mudo e incapacitado, con piernas tan débiles que no puede soportarlas por más de un segundo.
+
+Lothric parece mucho más frágil. Viste una túnica negra con adornos de oro y durante la segunda fase se teletransporta y se aferra a la espalda de su hermano, usando una energía de luz sagrada desconocida que funciona como los hechizos de cristal del más alto nivel.
+
+Lothric y Lorian, junto con Ocelotte, son los hijos del Rey Oceiros y la Reina de Lothric. El mayor, Lorian, era un caballero que logró acabar con el Príncipe demonio, envolviendo su espada con el poder de las llamas. Lothric nació enfermo y débil, y no parece haber tenido algún tipo de entrenamiento en combate.
+
+La estirpe de los Lothric estaba obsesionada con crear un niño tan fuerte que pudiera ser el candidato perfecto para enlazar la Primera Llama y sobrevivir como un Señor de la Ceniza. Pero cuando no pudieron producir un heredero lo suficientemente fuerte, la familia cometió un acto tan atroz e infame que maldijo a Lothric.
+
+Pero el hecho fue consumado, y Lothric fue destinado a sacrificarse y convertirse en un Señor de la Ceniza. Por razones desconocidas, su hermano mayor Lorian decidió compartir la maldición de su hermano, quedando mudo y con piernas casi inútiles debido a ello. Por esto sus almas son inseparables, y Lorian no podría morir a menos que Lothric lo hiciera. También eran inseparables en el parentesco, alimentados por el dolor de los hechos que habían tenido lugar en su familia.
+
+Puesto que los dos estaban ligados tan estrechamente que sus almas podían casi fusionarse, ambos hermanos eran requeridos para enlazar la llama. Debido a alguna combinación de acontecimientos que pueden o no incluir la naturaleza indescriptible del nacimiento de Lothric, las dudas de su maestro y el estado del mundo a pesar de innumerables sacrificios, rechazaron su deber de convertirse en Señores de la Ceniza y se asentaron muy lejos para ver el fuego apagarse desde la distancia.
+
+## <div id="ponticifesulyvahn"><front style="color:oldlace">Pontícife Sulyvahn</front></div>
+
+Es un hombre alto vestido con un traje ceremonial adornado con joyas y lleva una corona sobre lo que parece ser una cota de malla. Su piel es muy pálida y parece estar deteriorada, cubierta de grandes grietas, y no parece tener rostro. Debido a sus orígenes, se podría suponer que nació con este aspecto. En combate empuña dos espadones, el Espadón profanado en su mano derecha y el Espadón del juicio en su mano izquierda.
+
+En Ashes of Ariandel se revela que Sulyvahn nació en el Mundo Pintado de Ariandel. A pesar haberse criado dentro de la pintura, a Sulyvahn no le gustaba su hogar, puesto que aún no había experimentado la pérdida o la desesperación que sentían la mayoría de los residentes de aquel lugar. Como tal, no tenía ninguna conexión significativa con su hogar, y posteriormente se embarcó en un peregrinaje indefinido fuera de la pintura hacia el otro mundo, abandonando las hechicerías de hielo que Ariandel había promovido en favor de una magia más esotérica.
+
+Después de abandonar el Mundo Pintado, el joven hechicero encontró la Capital Profanada debajo de una tundra a cierta distancia de Irithyll, y a la Llama Profanada con ella. Tomando el Espadón profanado junto con su ambición, Sulyvahn se dispuso a tomar el control de Irithyll.
+
+Con el tiempo logró su objetivo y utilizó a sus Caballeros Pontífice y a las Brujas de fuego para mantener el control de la ciudad, mientras que los Caballeros Precursores fueron enviados a conquistar tierras lejanas. Para asegurarse de que los Caballeros Precursores nunca lo traicionaran o se opusieran a él, les concedió unos anillos que, sin saberlo, eventualmente los convertiría en bestias con una enorme sed de combate. Por esta razón los Caballeros Precursores eran vistos como exiliados. Los miembros más notables entre los Caballeros Precursores eran Vordt y una hija lejana de la familia real, quienes fueron enviados al reino de Lothric.
+
+También se convirtió en un devoto seguidor de la Iglesia de lo Profundo, fundada por el Santo Aldrich. El Pontífice Sulyvahn y los Archidiáconos Royce, McDonnell y Klimt fueron los principales líderes de la iglesia, además de Aldrich.
+
+Tras resucitar Aldrich, Sulyvahn y McDonnell lo acompañaron a la catedral de Anor Londo. Sulyvahn había capturado al Dios de la Luna Oscura Gwyndolin, después de que este se sacrificara voluntariamente para prevenir la muerte de su hermana Yorshka, a la que Sulyvahn pareció honrar y terminó encarcelando en la torre sobre su propia iglesia. Finalmente, Gwyndolin fue devorado por Aldrich.
