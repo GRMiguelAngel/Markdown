@@ -8,7 +8,7 @@ Dark Souls III es un juego de rol de acción de 2016 desarrollado por [FromSoftw
 * Jefes
     * <a href="#reysinnombre">El Rey sin Nombre</a>
 
-    * <a href="#iudexgundyr">Iudex Gundyr</a>
+    * <a href="#LorianLothric">Lorian, Príncipe Anciano<br>Lothric, joven príncipe</a>
 
     * <a href="#ponticifesulyvahn">Pontícife Sulyvahn</a>
     <br>
@@ -37,7 +37,7 @@ Estatuas
 
 En la parte posterior de la sala donde se lucha contra Ornstein y Smough hay pedestales para tres estatuas, con dos de ellas representando a Gwyn, Señor de la Luz Solar y Gwynevere, Princesa de la Luz Solar, mientras que el tercer pedestal se encuentra vacío. Es posible que este tercer pedestal una vez sostuviera la estatua que representara al Primogénito de Gwyn, y cuando éste fue exiliado y borrado de los anales de la historia, Gwyn decidiera retirar su estatua. 
 
-## <div id="iudexgundyr"><front style="color:oldlace">Lorian, Príncipe Anciano<br>Lothric, joven príncipe</front></div>
+## <div id="LorianLothric"><front style="color:oldlace">Lorian, Príncipe Anciano<br>Lothric, joven príncipe</front></div>
 
 Ambos hermanos tienen cabello largo de color gris y la piel pálida.
 
