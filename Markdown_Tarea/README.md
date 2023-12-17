@@ -5,15 +5,18 @@ Dark Souls III es un juego de rol de acción de 2016 desarrollado por [FromSoftw
 
 >Nota: Dark Souls II fue desarrollado y dirigido por [Naotoshi Zin](https://rawg.io/creators/naotoshi-zin) y publicado en el año 2014.</front>
 
-* Jefes
+1. Jefes
     * <a href="#reysinnombre">El Rey sin Nombre</a>
 
     * <a href="#LorianLothric">Lorian, Príncipe Anciano<br>Lothric, joven príncipe</a>
 
     * <a href="#ponticifesulyvahn">Pontícife Sulyvahn</a>
+2. Armas
+    * 
     <br>
 <br>
 
+## **Jefes**
 
 ## <div id="reysinnombre"><front style="color:oldlace">El Rey sin Nombre</front></div>
 
@@ -66,3 +69,15 @@ Con el tiempo logró su objetivo y utilizó a sus Caballeros Pontífice y a las 
 También se convirtió en un devoto seguidor de la Iglesia de lo Profundo, fundada por el Santo Aldrich. El Pontífice Sulyvahn y los Archidiáconos Royce, McDonnell y Klimt fueron los principales líderes de la iglesia, además de Aldrich.
 
 Tras resucitar Aldrich, Sulyvahn y McDonnell lo acompañaron a la catedral de Anor Londo. Sulyvahn había capturado al Dios de la Luna Oscura Gwyndolin, después de que este se sacrificara voluntariamente para prevenir la muerte de su hermana Yorshka, a la que Sulyvahn pareció honrar y terminó encarcelando en la torre sobre su propia iglesia. Finalmente, Gwyndolin fue devorado por Aldrich.
+
+## **Armas**
+|Arma|Ubicación|
+|-----|--------|
+|Espadón de Luz de Luna|El Jardín del Rey Consumido|
+|Diente de dragón|Pico del Arcidragón|
+|Lanza-espada del Asesino de dragones|Pico del Archidragón|
+
+## Espadón de Luz de Luna
+Arma de dragón legendaria atribuida a Seath, el dragón pálido.
+Carga el ataque fuerte hasta el limite para lanzar una onda de luz de luna.
+Oceiros, el Rey Consumido, se obsesionaba con la búsqueda de la luz de luna, pero jamás llegó a vislumbrarla.
