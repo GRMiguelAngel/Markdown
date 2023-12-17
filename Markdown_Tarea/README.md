@@ -86,7 +86,7 @@ Creado a partir de un diente de dragón eterno que jamás se romperá.
 Dejado por el mismísimo Havel junto a su gran escudo similar a una roca. Proporciona al portador resistencia a la magia y al fuego.
 
 ## Lanza-espada del Asesino de dragones
-<img src="Lanza-espada_del_Asesino_de_dragones">
+<img src="Lanza-espada_del_Asesino_de_dragones.webp">
 
 Arma de la era de los dioses para cazar dragones. Es la forma primitiva de la lanza en forma de cruz, que sirve como espada y como lanza.
 Su dueño fue el Rey Sin Nombre, deífico cazador de dragones. La espada-lanza está imbuida de electricidad, pues era el heredero del rayo.
