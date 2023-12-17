@@ -88,3 +88,20 @@ Dejado por el mismísimo Havel junto a su gran escudo similar a una roca. Propor
 ## Lanza-espada del Asesino de dragones
 Arma de la era de los dioses para cazar dragones. Es la forma primitiva de la lanza en forma de cruz, que sirve como espada y como lanza.
 Su dueño fue el Rey Sin Nombre, deífico cazador de dragones. La espada-lanza está imbuida de electricidad, pues era el heredero del rayo.
+
+
+## Aquí un XML sobre en el contenido general del Markdown
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<darksouls3>
+    <jefes>
+        <jefe1>El Rey sin Nombre</jefe1>
+        <jefe2>Lorian, Príncipe Anciano; Lothric, joven príncipe</jefe2>
+        <jefe3>Pontícife Sulyvahn</jefe3>
+    </jefes>
+    <armas>
+    <arma1>Espadón de Luz de Luna</arma1>
+    <arma2>Diente de Dragón</arma2>
+    <arma3>Lanza-espada del Asesino de dragones</arma3>
+    </armas>
+</darksouls3>
